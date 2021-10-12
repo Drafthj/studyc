@@ -1,4 +1,5 @@
 //
+// 打印输入中单词的直方图（横向和竖向）
 // Created by drafthj on 2021/10/12.
 //
 #include <stdio.h>
