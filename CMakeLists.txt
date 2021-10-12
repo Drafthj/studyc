@@ -3,4 +3,4 @@ project(ClionProjects C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(main chapter1/main.c)
+add_executable(histogram chapter1/histogram.c)
